@@ -12,7 +12,7 @@ This project applies **unsupervised learning** methods to segment mall customers
 
 
 ## Deliverables
-- [Notebook: UspMLproject.ipynb]
+- [Notebook: UspMLproject.ipynb]: https://github.com/akronohhh/unsupervised-learning-final-project/blob/main/UnML.ipynb
 - Video Presentation:https://drive.google.com/file/d/183VjuRonpGxTO7oy3agZGZ3WrUosfCjo/view?usp=drive_link
 - Presentaion PDF:https://github.com/akronohhh/unsupervised-learning-final-project/blob/main/Unsupervised_Learning_Final_Project_Presentation%20(1).pdf
 - 
